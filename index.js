@@ -9,7 +9,6 @@ function happyHolidaysTo(name) {
 }
 
 function happyHolidayTo(holiday, name){
-  if(holiday, name)
   return `Happy ${holiday}, ${name}!`
 }
 
